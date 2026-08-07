@@ -39,5 +39,6 @@ python SydDev.py
 /storage/emulated/0/Android/SydDev.py/  <- SAFE, survives uninstall
 ~/DevUniverse/ <- Termux backups (v0.2.0 to v0.5.1)
 ```
+"If you can build it on a phone in Pretoria, you can build it anywhere."
 
 ### 👨‍💻 Built by MtsweniS — Pretoria — 100% on mobile
